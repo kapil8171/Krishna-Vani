@@ -53,7 +53,5 @@ HomeFragment (Chapters List)
               ├──→ SavedChaptersFragment
               └──→ SavedVersesFragment
 
-## 📽️ Demo Video
 
-Watch the demo 👉 [Click here to view the video](https://drive.google.com/file/d/YOUR_FILE_ID/view)
 
